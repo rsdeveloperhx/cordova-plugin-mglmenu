@@ -11,7 +11,7 @@
         <engine name="cordova-ios" version=">=5.1.0" />
     </engines>
     <js-module name="mglmenu" src="www/cordova_plugin_mglmenu.js">
-        <clobbers target="cordova.plugins.mglmenu" />
+        <clobbers target="cordova_plugin_mglmenu" />
     </js-module>
 
     <platform name="android">
