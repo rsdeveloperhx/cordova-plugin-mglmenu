@@ -17,7 +17,7 @@
     <platform name="android">
         <config-file parent="/*" target="res/xml/config.xml">
             <feature name="mglmenu">
-                <param name="android-package" value="ch.migros.plugin.Plugin_mglmenu" />
+                <param name="android-package" value="ch.migros.plugin.cordova-plugin-mglmenu" />
             </feature>
         </config-file>
 
