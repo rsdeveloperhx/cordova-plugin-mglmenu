@@ -23,7 +23,7 @@
 
         <config-file parent="/*" target="AndroidManifest.xml" />
 
-        <source-file src="src/android/cordova-plugin-mglmenu.java"
+        <source-file src="src/android/cordova_plugin_mglmenu.java"
                      target-dir="src/ch/migros/plugin" />
     </platform>
 
