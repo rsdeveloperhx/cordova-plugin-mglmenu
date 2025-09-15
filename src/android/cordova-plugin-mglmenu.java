@@ -1,4 +1,4 @@
-package ch-migros-plugin-Plugin_mglmenu;
+package ch.migros.plugin;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
