@@ -1,0 +1,33 @@
+{
+  "cordova": {
+    "id": "cordova-plugin-mglmenu",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "This plugin helps to use native Android menu for Migrolino",
+  "homepage": "https://github.com/rsdeveloperhx/cordova-plugin-mglmenu",
+  "keywords": [
+    "migrolino",
+    "native-menu",
+    "cordova-android"
+  ],
+  "name": "cordova-plugin-mglmenu",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsdeveloperhx/cordova-plugin-mglmenu.git"
+  },
+  "author": {
+    "name": "hong.xin@mgb.ch"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rsdeveloperhx/cordova-plugin-mglmenu/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
+
